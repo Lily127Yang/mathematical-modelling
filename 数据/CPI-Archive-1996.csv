@@ -1,0 +1,55 @@
+country,iso,region,score,rank
+Argentina,ARG,AME,3.41,35
+Australia,AUS,AP,8.6,10
+Austria,AUT,WE/EU,7.59,16
+Bangladesh,BGD,AP,2.29,51
+Belgium,BEL,WE/EU,6.84,20
+Bolivia,BOL,AME,3.4,36
+Brazil,BRA,AME,2.96,40
+Cameroon,CMR,SSA,2.46,49
+Canada,CAN,AME,8.96,5
+Chile,CHL,AME,6.8,21
+China,CHN,AP,2.43,50
+Colombia,COL,AME,2.73,42
+Czech Republic,CZE,WE/EU,5.37,25
+Denmark,DNK,WE/EU,9.33,2
+Ecuador,ECU,AME,3.19,39
+Egypt,EGY,MENA,2.84,41
+Finland,FIN,WE/EU,9.05,4
+France,FRA,WE/EU,6.96,19
+Germany,DEU,WE/EU,8.27,13
+Greece,GRC,WE/EU,5.01,28
+Hong Kong,HKG,AP,7.01,18
+Hungary,HUN,WE/EU,4.86,31
+India,IND,AP,2.63,46
+Indonesia,IDN,AP,2.65,45
+Ireland,IRL,WE/EU,8.45,11
+Israel,ISR,MENA,7.71,14
+Italy,ITA,WE/EU,3.42,34
+Japan,JPN,AP,7.05,17
+Jordan,JOR,MENA,4.89,30
+Kenya,KEN,SSA,2.21,52
+"Korea, South",KOR,AP,5.02,27
+Malaysia,MYS,AP,5.32,26
+Mexico,MEX,AME,3.3,38
+Netherlands,NLD,WE/EU,8.71,9
+New Zealand,NZL,AP,9.43,1
+Nigeria,NGA,SSA,0.69,54
+Norway,NOR,WE/EU,8.87,6
+Pakistan,PAK,AP,1,53
+Philippines,PHL,AP,2.69,44
+Poland,POL,WE/EU,5.57,24
+Portugal,PRT,WE/EU,6.53,22
+Russia,RUS,ECA,2.58,47
+Singapore,SGP,AP,8.8,7
+South Africa,ZAF,SSA,5.68,23
+Spain,ESP,WE/EU,4.31,32
+Sweden,SWE,WE/EU,9.08,3
+Switzerland,CHE,WE/EU,8.76,8
+Taiwan,TWN,AP,4.98,29
+Thailand,THA,AP,3.33,37
+Turkey,TUR,ECA,3.54,33
+Uganda,UGA,SSA,2.71,43
+United Kingdom,GBR,WE/EU,8.44,12
+United States of America,USA,AME,7.66,15
+Venezuela,VEN,AME,2.5,48

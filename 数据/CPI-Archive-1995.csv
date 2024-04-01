@@ -1,0 +1,42 @@
+country,iso,region,score,rank
+New Zealand,NZL,AP,9.55,1
+Denmark,DNK,WE/EU,9.32,2
+Singapore,SGP,AP,9.26,3
+Finland,FIN,WE/EU,9.12,4
+Canada,CAN,AME,8.87,5
+Sweden,SWE,WE/EU,8.87,6
+Australia,AUS,AP,8.8,7
+Switzerland,CHE,WE/EU,8.76,8
+Netherlands,NLD,WE/EU,8.69,9
+Norway,NOR,WE/EU,8.61,10
+Ireland,IRL,WE/EU,8.57,11
+United Kingdom,GBR,WE/EU,8.57,12
+Germany,DEU,WE/EU,8.14,13
+Chile,CHL,AME,7.94,14
+United States of America,USA,AME,7.79,15
+Austria,AUT,WE/EU,7.13,16
+Hong Kong,HKG,AP,7.12,17
+France,FRA,WE/EU,7,18
+Belgium,BEL,WE/EU,6.85,19
+Japan,JPN,AP,6.72,20
+South Africa,ZAF,SSA,5.62,21
+Portugal,PRT,WE/EU,5.56,22
+Malaysia,MYS,AP,5.28,23
+Argentina,ARG,AME,5.24,24
+Taiwan,TWN,AP,5.08,25
+Spain,ESP,WE/EU,4.35,26
+"Korea, South",KOR,AP,4.29,27
+Hungary,HUN,WE/EU,4.12,28
+Turkey,TUR,ECA,4.1,29
+Greece,GRC,WE/EU,4.04,30
+Colombia,COL,AME,3.44,31
+Mexico,MEX,AME,3.18,32
+Italy,ITA,WE/EU,2.99,33
+Thailand,THA,AP,2.79,34
+India,IND,AP,2.78,35
+Philippines,PHL,AP,2.77,36
+Brazil,BRA,AME,2.7,37
+Venezuela,VEN,AME,2.66,38
+Pakistan,PAK,AP,2.25,39
+China,CHN,AP,2.16,40
+Indonesia,IDN,AP,1.94,41
